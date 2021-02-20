@@ -13,7 +13,7 @@ window.onload = function(){
     var score;
     var timeOut;
     
-    init();
+    init() ;
     
     function init(){
         var canvas = document.createElement('canvas');
